@@ -16,3 +16,23 @@ ul{
   padding-top: 45px;
 }
 
+#tableHead{
+  padding-top: 5px;
+  padding-bottom: 5px;
+  float: right;
+}
+
+table, td{
+  border: 1px solid black;
+  max-width: 750px;
+}
+
+.good{
+  background-color: green;
+}
+.mid{
+  background-color: yellow;
+}
+.bad{
+  background-color: darkred;
+}
